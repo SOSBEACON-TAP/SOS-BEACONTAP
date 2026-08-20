@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#DC2626</color>
+    <color name="primary_dark">#991B1B</color>
+    <color name="secondary">#2563EB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="status_bar">#991B1B</color>
+</resources>

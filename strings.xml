@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SOS BeaconTap</string>
+    <string name="device_ssid">ESP32C3-SOS</string>
+    <string name="device_password">12345678</string>
+    <string name="device_url">http://192.168.4.1</string>
+
+    <string name="status_connecting">Connecting to SOS BeaconTap device\u2026</string>
+    <string name="status_connected">Connected to device</string>
+    <string name="status_failed">Could not auto-connect \u2013 tap to connect manually</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_open_wifi_settings">Open WiFi Settings</string>
+</resources>
